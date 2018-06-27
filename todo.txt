@@ -1,0 +1,8 @@
+- vérifier émetteur
+- utiliser liste de destinatire dans fichier de configuration
+- créer un fichier de log
+- stocker les e-mail recu
+- vérifier les messages recus (inclure système de vérification du contenu)
+- renvoyer un email indiquant l'etat du serveur et de la commande envoyé
+- vérifier l'état de la session (certains commandes dispo uniquement lorsque serveur authentifié et executé certaines commandes)
+- intégrer commande EXSMTP ?

@@ -1,0 +1,4 @@
+*.class
+
+# exclude traces from commit
+logs/
